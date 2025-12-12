@@ -1,4 +1,4 @@
-- please make sure to use the **fake api** used in the app, by running : npm run server
+- please make sure to use the **fake api** used in the app, by running : **npm run server**
 
 # Getting Started with Create React App
 
